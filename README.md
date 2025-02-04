@@ -1,6 +1,10 @@
 # RAG-based Conversational QnA System 🤖📄
 An AI-powered chatbot that leverages Retrieval-Augmented Generation (RAG) to provide accurate and context-aware answers from uploaded PDFs. Built with Streamlit, LangChain, and ChromaDB, it allows users to interact with documents in a conversational manner.
 
+
+https://github.com/user-attachments/assets/836246d9-0f3d-44c8-ac2e-1b1302113687
+
+
 # ✨ Features
 - **📂 Upload PDFs** – Ask questions based on document content.
 - **🔍 Retrieval-Augmented Generation (RAG)** – Uses vector search for context-aware responses.
