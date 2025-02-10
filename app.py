@@ -7,7 +7,7 @@ from utils.vector_store import create_vector_store
 from utils.qa_chain import create_qa_chain
 
 # Have to Set up API key for ChatGroq
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "YOUR_API_KEY"
 
 st.title("BrainyBot-Y: Your AI Sidekick 🧠🤖")
 st.write("Ask questions based on the uploaded document!")
